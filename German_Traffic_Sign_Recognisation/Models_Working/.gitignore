@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+ai_ml/
+
+# Dataset
+Dataset/
+
+# VS Code
+.vscode/
+
+German_Traffic_Sign_Recognisation/Dataset/
+Indian_Traffic_Sign_Recognisation/Dataset/
